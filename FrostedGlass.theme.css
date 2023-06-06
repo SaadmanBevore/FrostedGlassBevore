@@ -25,14 +25,14 @@
    * User Popout variables
    * This will only affect the user profile (when clicking on a member in the members list)
    */
-  --popout-image: var(--background-image); /* Background image for popouts and modals | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --popout-image: url("https://media.tenor.com/8Kx5NwRBM9IAAAAd/sana-twice.gif"); /* Background image for popouts and modals | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --popout-image-blur: 5px; /* Blur intensity of --popout-image | Must end in px | DEFAULT: 5px */
   --popout-image-size: cover; /* Size of the popout/modal image | DEFAUT: cover | OPTIONS: cover, contain */
   --popout-image-position: center; /* Position of popout/modal image | DEAFULT: center | OPTIONS: top, right, bottom, left, center */
   /*
    * Modal & Popout variables
    */
-  --overlay-image: var(--background-image); /* Background image for popouts and modals | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --overlay-image: url("https://thumbs.gfycat.com/LeadingMiserlyAnchovy-max-1mb.gif"); /* Background image for popouts and modals | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --overlay-image-blur: var(--background-image-blur); /* Blur intensity of --overlay-image | Must end in px | DEFAULT: 5px */
   --overlay-image-size: var(--background-image-size); /* Size of the popout/modal image | DEFAUT: cover | OPTIONS: cover, contain */
   --overlay-image-position: var(--background-image-position); /* Position of popout/modal image | DEAFULT: center | OPTIONS: top, right, bottom, left, center */
@@ -67,7 +67,7 @@
   --window-padding: 20px; /* Spacing around the Discord window | DEFAULT: 20px */
   --window-roundness: 10px; /* Roundness of Discord | DEFAULT: 10px */
   --scrollbar-colour: rgb(255, 255, 255, 0.05); /* DEFAULT: rgb(255,255,255,0.05) */
-  --link-colour: #00b0f4; /* DEFAULT: #00b0f4 */
+  --link-colour: #f19189; /* DEFAULT: #00b0f4 */
   /*
     * Visit https://fonts.google.com and select one to your liking.
     * Now just follow this tutorial: https://imgur.com/a/CNbw7xC
